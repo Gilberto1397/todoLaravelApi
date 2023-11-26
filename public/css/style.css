@@ -1,0 +1,16 @@
+.heightMax {
+    height: 100vh;
+}
+
+.taskTitle {
+    height: 45px;
+}
+
+.actionButton {
+    line-height: 0;
+    margin-top: -7px;
+}
+
+.taskItem {
+    margin: 0;
+}
